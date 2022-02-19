@@ -78,7 +78,7 @@ li {
 	background-color: #F2F2F2 ;
 	margin-left: 115px;
 	display: inline-block;
-	vertical-align: middle;
+	
 
 }
 #mb2 {
@@ -87,7 +87,7 @@ li {
 	margin-left: 14px;
 	background-color: #F2F2F2 ;
 	display: inline-block;
-	vertical-align: middle;
+	
 }
 .mb3 {
 	width: 100%;
@@ -111,5 +111,9 @@ li {
 	margin-left: 95px;
 	display: inline-block;
 	vertical-align: middle;
+
+}
+.divmargin {
+	margin: auto;
 
 }
